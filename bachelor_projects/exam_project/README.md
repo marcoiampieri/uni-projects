@@ -1,4 +1,4 @@
-### This project was the object of the final exam for our C++ course in Bologna
+### This project was the object of the final examination for our C++ course in Bologna
 
 # Tasks:
 
