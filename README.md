@@ -3,3 +3,6 @@
 
 - bachelor_projects/
 - master_projects/
+
+## Note:
+As of February 24th 2026, I'm still in the process of sorting and uploading my projects
