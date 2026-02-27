@@ -10,7 +10,7 @@
 - **build-o/**: release build created via CMake
 - **build-d/**: developer build created via CMake
 - **main.cpp**: "standard" code to draw the Mandelbrot set
-- **main_par.cpp**: version that implements parallel computing
+- **main_par.cpp**: version of the code that implements parallel computing
 - **CMakeLists.txt**: CMake file used to compile the code
 - **mandelbrot.png**: graphical representation of the Mandelbrot set produced as _.png_ output by _main_par.cpp_  
 
