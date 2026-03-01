@@ -21,5 +21,6 @@
   * thesis
 
 ## Note:
-As of February 27th 2026, I'm still in the process of sorting and uploading my projects
+As of March 1st 2026, I'm still in the process of sorting and uploading my projects, mainly
+- Update the bachelor's labs' README files
 
