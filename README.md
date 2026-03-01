@@ -21,6 +21,7 @@
   * thesis
 
 ## Note:
+Some of the files and pieces of code (especially those created during the years of my Bachelor's studies) are written in Italian.  
 As of March 1st 2026, I'm still in the process of sorting and uploading my projects, mainly
 - Update the bachelor's labs' README files
 - Add some of the data and outputs for said labs
