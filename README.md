@@ -5,7 +5,7 @@
   * exam_project
   * game_of_life
   * root_lab_2nd_year
-  * lab_3d_year
+  * lab_3rd_year
     - experiment_1_diodes
     - experiment_2_bjt_transistors
     
