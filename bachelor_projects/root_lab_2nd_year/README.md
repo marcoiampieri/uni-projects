@@ -24,7 +24,8 @@
    * Difference between combinations of same and opposite charges (counting all particles)
 
 ## Content:
-- _*Particle.hpp*_ and _*Particle.cpp*_: here the _Particle_ class and all of its methods, i.e. the constructors, _getters_, index setters (to assign a type to a particle), along with the methods needed to boost the particles and make them decay, are defined
-- _*ParticleType.hpp*_ and _*ParticleType.cpp*_: here the _ParticleType_ class and its _getters_ are defined
-- _*ResonanceType.hpp*_ and _*ResonanceType.cpp*_: here the _ResonanceType_ class and its methods (_GetWidth() and Print()_) are defined
-- _*main.cpp*_: here the full simulation is implemented, creating all the particles, assigning them the required parameters, computing the various invariant mass combinations and creating the plots
+- _**Particle.hpp**_ and _**Particle.cpp**_: here the _Particle_ class and all of its methods, i.e. the constructors, _getters_, index setters (to assign a type to a particle), along with the methods needed to boost the particles and make them decay, are defined
+- _**ParticleType.hpp**_ and _**ParticleType.cpp**_: here the _ParticleType_ class and its _getters_ are defined
+- _**ResonanceType.hpp**_ and _**ResonanceType.cpp**_: here the _ResonanceType_ class and its methods (_GetWidth() and Print()_) are defined
+- _**main.cpp**_: here the full simulation is implemented, creating all the particles, assigning them the required parameters, computing the various invariant mass combinations and creating the plots
+- _**outputs/**_: here are stored the _.jpg_ and _.root_ files for both the **particle properties** and **invariant masses** distributions
