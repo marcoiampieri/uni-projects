@@ -1,6 +1,6 @@
-### This folder contains the scripts used to analyze and visualize via _ROOT_ the data gathered during the first mandatory experiment of the _Electronics Laboratory_ course in the $3^{rd}$ year of the _Physics_ Bachelor's programme in Bologna
+### This folder contains the scripts used to analyze and visualize via _ROOT_ the data gathered during the first mandatory experiment of the _Electronics Laboratory_ course in the $3^{rd}$ year of the _Physics_ Bachelor's programme in Bologna.
 
-### The experiment aimed to verify the correct behavior of two diodes, one made of silicon and the other of germanium, by measuring their characteristic I-V curves
+### The experiment aimed to verify the correct behavior of two diodes, one made of silicon and the other of germanium, by measuring their characteristic I-V curves.
 
 ## Content
 - _**Calibrazione.cpp**_: here the calibration data is loaded, fitted and plotted, and the statistical parameters are computed
