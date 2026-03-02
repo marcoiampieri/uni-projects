@@ -5,4 +5,4 @@
 
 ### Note:
 
-For copyright and intellectual property reasons, the data was not uploaded in its entirety
+For copyright and intellectual property reasons, as well as privacy, the data was not uploaded in its entirety
