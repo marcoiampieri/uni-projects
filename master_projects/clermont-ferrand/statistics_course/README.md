@@ -2,4 +2,8 @@
 
 ## Task
 
-For this project, we were asked to test statistical hypotheses for the digit frequencies of different notorious numbers
+For this project, we were asked to test statistical hypotheses for the digit frequencies of different notorious numbers.
+
+1) Test the _Normal Number_ hypothesis (i.e. a number that has an equal frequency for each of its digits) for the following numbers:
+   * $\pi$
+
