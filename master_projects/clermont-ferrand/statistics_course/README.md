@@ -1,3 +1,5 @@
 ### This folder contains the Jupiter Notebook submitted as part of the final grade for the _Statistics_ module of the _Statistics and data analysis_ course in Clermont-Ferrand, during the $1^{st}$ semester of my Master's programme.
 
 ## Task
+
+For this project, we were asked to test statistical hypotheses for the digit frequencies of different notorious numbers
