@@ -1,5 +1,8 @@
 # uni_projects
-## This repository contains some of the projects I worked on during my Bachelor's and Master's years, sorted in:
+
+### This repository contains some of the projects I worked on during my Bachelor's and Master's years
+
+## Structure
 
 - **bachelor_projects/**
   * exam_project
