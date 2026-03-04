@@ -13,3 +13,6 @@ For this project, we were asked to test statistical hypotheses for the digit fre
    * **Lucas sequence**
    * **Padovan sequence**
 
+2) Test the _law of anomalous numbers_ using the _Newcomb-Benford_ probability mass function for the following cases:
+   * **First digit of the Fibonacci numbers**
+ 
