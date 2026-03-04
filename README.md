@@ -28,8 +28,10 @@
 
 ## Note:
 Some of the files and pieces of code (especially those created during the years of my Bachelor's studies) are written in Italian.  
-As of March $3^{rd}$ 2026, I'm still in the process of sorting and uploading my projects, mainly
-- Update the bachelor's labs' README files
-- Add some of the data and outputs for said labs
+As of March $5^{th}$ 2026, I'm still in the process of sorting and uploading my projects, mainly
+- [x] Update the bachelor's labs' README files 
+- [x] Add some of the data and outputs for said labs
 - Update the clermont-ferrand/ folder
+- Update the README file for the master_project/ folder
+- Update the README files for the clermont-ferrand/ folder
 
