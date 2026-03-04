@@ -18,3 +18,4 @@ For this project, we were asked to test statistical hypotheses for the digit fre
    * **Multiplication of randomly independent variables**
    * **$Z={(\frac{X}{Y})}^n$** where both X and Y are uniformly distributed
  
+#### Details and explanations regarding the code and the results can be found directly in the notebook
