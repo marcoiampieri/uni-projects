@@ -35,4 +35,5 @@ As of March $5^{th}$ 2026, I'm still in the process of sorting and uploading my 
 - Update the clermont-ferrand/ folder
 - Update the README file for the master_project/ folder
 - Update the README files for the clermont-ferrand/ folder
+- Add the Bologna's semester root folder
 
