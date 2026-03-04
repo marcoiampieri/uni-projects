@@ -1,4 +1,4 @@
-### This folder contains some of the projects I worked on during my first semester in Dortmund (Sommersemester 2024)
+### This folder contains some of the projects I worked on during my first semester in Dortmund (Germany), which was the second semester of my Master's Programme (Sommersemester 2024).
 
 ### Note: some of the data used for these projects is missing due to its excessive size
 
