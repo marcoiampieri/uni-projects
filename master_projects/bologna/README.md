@@ -2,6 +2,8 @@
 
 ## Structure
 
--**cshep_exam_project/**: this folder contains the project that was part of the final examination for the _Computer science for High Energy Physics_ course
+-**cshep_exam_project/**: this folder contains the project that was part of the final examination for the _Computer science for High Energy Physics (CSHEP)_ course
 
 -**prep_for_research/**: this project served as evaluation for the _Preparation for scientific research_ course
+
+-**root_module/**: this folder contains some of the exercises from the _CSHEP_ course's _ROOT_ module hands-on sessions 
