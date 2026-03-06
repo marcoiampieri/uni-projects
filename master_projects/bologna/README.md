@@ -6,4 +6,4 @@
 
 -**prep_for_research/**: this project served as evaluation for the _Preparation for scientific research_ course
 
--**root_module/**: this folder contains some of the exercises from the _CSHEP_ course's _ROOT_ module hands-on sessions 
+-**root_module/**: this folder contains some of the exercises from the hands-on sessions of the _ROOT_ module, which was part of the _CSHEP_ course
